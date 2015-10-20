@@ -1,0 +1,13 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.yahoo.mobile.client.android.onepiece",
+        "sha256_cert_fingerprints": [
+            "D3:F1:FB:1B:2C:81:E0:96:E3:F5:80:9A:50:3A:FD:A0:CF:AF:56:B9:D3:9D:ED:C6:56:EE:26:60:AC:EF:61:4C",
+            "3C:F5:EC:C7:4C:0E:2A:2E:A6:6B:AB:04:A4:FC:D4:8D:EB:09:D0:3C:8F:14:BD:7E:0F:F1:2F:26:15:A9:05:C0",
+            "59:96:BE:F4:A9:2F:82:9D:E7:02:1A:EA:51:D8:C3:89:EB:9A:23:EC:7B:C8:5B:93:48:48:6B:05:14:D4:18:42",
+            "DB:60:A6:7A:AE:19:F9:B8:6D:8D:37:74:96:62:58:EF:17:21:23:0B:9F:F2:32:C5:56:15:4C:21:98:7F:C0:09"
+        ]
+    }
+}]
